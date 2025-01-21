@@ -1,0 +1,30 @@
+h1 {
+    color: #0316e8;
+    text-align: center;
+}
+.title, .recipe-title {
+    font-size: 38px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    im
+}
+
+.ingredients-title {
+    background-color: yellow;
+    font-weight: 1000;
+    font-size: 30px;   
+}
+
+ol.instructions-list li {
+    color: rgb(242, 122, 9);
+}
